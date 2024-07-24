@@ -3,6 +3,6 @@
 - Autor: [Thayná Becker](https://github.com/thaynabecker)
 - *iFC - Campus Araquari*
 
-## subtítulo
+## Subtítulo
 
 >Não dou!
